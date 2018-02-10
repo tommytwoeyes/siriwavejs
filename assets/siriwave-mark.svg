@@ -6,6 +6,6 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <circle id="Oval" stroke="#FFFFFF" cx="13.5" cy="13.5" r="12.5"></circle>
-        <path d="M3.5,13.5 C7.80402277,13.5 6.72967676,11.5 10,11.5 C13.2703232,11.5 13.935631,15.5 16.9746749,15.5 C20.0137189,15.5 19.1562371,13.5 23.5,13.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+        <path d="M3.5,13.5 C7.80402277,13.5 6.72967676,9.5 10,9.5 C13.2703232,9.5 13.935631,17.5 16.9746749,17.5 C20.0137189,17.5 19.1562371,13.5 23.5,13.5" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
     </g>
 </svg>
